@@ -1,10 +1,13 @@
-# Project Future - ReGeneration - Data and Decision Sciences
+# Project Future - Data Science
 
-This is your team's private repository for the project.
+My goal throughout this exercise is to
+familiarize myself with the domain and use this knowledge to produce value for the bank,
+through the analysis of the data.
 
-Under `data/` you will find the files you will need for this project.
+I used Python's libraries such as Pandas,Numpy,Seaborn,Matplotlib,Keras and Scikit-learn for this implementation. 
 
-Feel free to change modify the repository in any way you see fit!
-
-Good luck!
-
+1)Data Analysis / Data preprocessing
+2)Prediction
+3)Classification
+4)User Modeling
+5)Unengaged and Churned users
